@@ -92,3 +92,4 @@ const getDevice = ({ host, log, learnOnly }) => {
 }
 
 module.exports = getDevice;
+
