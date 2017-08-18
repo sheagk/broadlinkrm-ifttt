@@ -77,3 +77,5 @@ Some parts of the code are from @lprhodes Homebridge Broadlink:
 https://github.com/lprhodes/homebridge-broadlink-rm
 
 Also his module for the communication is used.
+
+Also jor3l did basically everything in this repository that he's not crediting to someone else.  I just modified it slightly to handle multiple commands and to sanitize the inputs.
